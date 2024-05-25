@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Dynamics Module v2.0.0.PcbDoc   25/05/2024  16:14:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Dynamics Module v2.0.0.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             118       PTH        24.61inch (625.03mm)
+T2      40mil (1.021mm)                                           Round             10        PTH        4.10inch (104.20mm)
+T3      42mil (1.069mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T4      59mil (1.501mm)                                           Round             26        PTH        3.51inch (89.11mm)
+T5      134mil (3.401mm)                                          Round             2         PTH        1.28inch (32.50mm)
+T6      138mil (3.5mm)                                            Round             3         PTH        3.14inch (79.65mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              162
+
+Total Processing Time (hh:mm:ss) : 00:00:00
